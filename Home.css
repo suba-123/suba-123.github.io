@@ -254,14 +254,9 @@
   margin: 21px auto 0 20px;
 }
 
-.u-section-2 .u-layout-cell-2 {
-  min-height: 441px;
-}
-
 .u-section-2 .u-image-1 {
-  width: 280px;
-  height: 627px;
-  margin: -8px auto -198px;
+  min-height: 441px;
+  background-image: url("/images/WhatsAppImage2022-12-03at13.16.39.jpeg");
 }
 
 @media (max-width: 1199px) {
@@ -293,7 +288,7 @@
     margin-left: 0;
   }
 
-  .u-section-2 .u-layout-cell-2 {
+  .u-section-2 .u-image-1 {
     min-height: 420px;
     background-position: 50% 50%;
   }
