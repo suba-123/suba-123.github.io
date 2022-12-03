@@ -257,6 +257,7 @@
 .u-section-2 .u-image-1 {
   min-height: 441px;
   background-image: url("images/WhatsAppImage2022-12-03at13.16.39.jpeg");
+  background-position: 100% 50%;
 }
 
 @media (max-width: 1199px) {
